@@ -21,3 +21,8 @@ Stable Baselines3
 Gymnasium
 SHAP
 yFinance
+
+
+## Status
+
+🚧 Active Development – Initial data pipeline and research workflow under implementation.
